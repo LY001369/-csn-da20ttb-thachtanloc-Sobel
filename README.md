@@ -1,1 +1,1 @@
-# -csn-da20ttb-thachtanloc-Sobel
+# csn-da20ttb-thachtanloc-Sobel
